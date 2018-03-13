@@ -9,7 +9,7 @@ const petsData = [
     name: "妙蛙種子",
     species: "長的像二齒獸或蟾蜍背著類似百合、大蒜或洋蔥等鱗莖的草屬性和毒屬性種子寶可夢，專家們仍未能肯定他是植物類還是動物類",
     favFoods: ["以葉綠素自行生成能量"],
-    photo: "https://media.52poke.com/wiki/7/7a/%E5%B0%8F%E6%99%BA_%E5%A6%99%E8%9B%99_ADV.png"
+    photo: "https://s1.52poke.wiki/wiki/thumb/1/1b/%E5%B0%8F%E9%81%A5_%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90.png/120px-%E5%B0%8F%E9%81%A5_%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90.png"
   },
   {
     name: "龍蝦小兵",
